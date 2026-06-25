@@ -40,19 +40,11 @@ The data spans from 1957 through recent years and includes missions from governm
 Programming
 
 * Python
-
-Libraries
-
 * Pandas
 * NumPy
-* Plotly Express
-* Plotly Graph Objects
 * Matplotlib
 * ISO3166
 
-Environment
-
-* Jupyter Notebook
 
 ## Project Workflow
 
@@ -109,9 +101,8 @@ Investigated:
 !['Global Distribution of Space Missions (1957 - 2026)'](Images/launchesbyCountry_5.png)
 !['Sunburst Chart of the countries, organisations, and mission status'](Images/sunburst_6.png)
 ![Space Launch Trends: Top 10 Organizations Over Time](Images/launches_3.png)
-![Leading Country Analysis](image7.png)
 
-Key Questions Answered
+## Key Questions Answered
 
 Launch Activity
 
