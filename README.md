@@ -8,8 +8,6 @@ Using Python and data visualization techniques, the analysis uncovers trends in 
 
 The project was completed as part of a data analytics and visualization portfolio using real-world space mission data.
 
-⸻
-
 ## Project Objectives
 
 The primary goals of this analysis were to:
@@ -21,8 +19,6 @@ The primary goals of this analysis were to:
 * Visualize global launch activity geographically
 * Investigate Cold War space race trends
 * Identify leading organizations over time
-
-⸻
 
 ## Dataset
 
@@ -38,8 +34,6 @@ The dataset contains historical records of space missions, including:
 * Mission outcome
 
 The data spans from 1957 through recent years and includes missions from government agencies and private aerospace companies.
-
-⸻
 
 ## Tools & Technologies
 
@@ -60,8 +54,7 @@ Environment
 
 * Jupyter Notebook
 
-⸻
-Project Workflow
+## Project Workflow
 
 1. Data Cleaning
 
@@ -118,8 +111,6 @@ Investigated:
 ![Space Launch Trends: Top 10 Organizations Over Time](Images/launches_3.png)
 ![Leading Country Analysis](image7.png)
 
-⸻
-
 Key Questions Answered
 
 Launch Activity
@@ -145,9 +136,8 @@ Global Competition
 * How did the Cold War influence launch activity?
 * When did leadership shift between nations?
 
-⸻
 
-Key Insights
+## Key Insights
 
 * Space launch activity has increased significantly in recent decades.
 * Mission success rates have improved substantially over time.
@@ -156,12 +146,10 @@ Key Insights
 * Launch costs vary dramatically between organizations and mission types.
 * Commercial spaceflight has accelerated growth in global launch activity.
 
-⸻
 
-Future Enhancements
+## Future Enhancements
 
 * Build an interactive Tableau dashboard
-* Develop a Power BI version of the analysis
 * Add predictive modeling for mission success
 * Create forecasting models for future launch activity
 * Integrate real-time launch data APIs
